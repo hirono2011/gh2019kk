@@ -1,0 +1,102 @@
+#+TITLE: "フリーソフトウェア「LibreOffice　Writer」の活用"
+#+AUTHOR: 廣野秀樹
+#+EMAIL:  hirono2013k@gmail.com
+#+DATE: 2019-09-15 10:30:50 +0900
+FILE_NAME: 2019-09-15-103050_フリーソフトウェア「LibreOffice　Writer」の活用.org
+CATEGORY: 石川県警察御中,金沢地方検察庁御中
+tags: Linux（Ubuntu） ,LibreOffice,Ubuntu
+記事タイトル名の文字数：32　保存ファイル名の文字数：54
+
+* フリーソフトウェア「LibreOffice　Writer」の活用
+  :LOGBOOK:
+  CLOCK: [2019-09-15 日 16:00]--[2019-09-15 日 17:38] =>  1:38
+  :END:
+
+:CATEGORIES: 石川県警察珠洲警察署御中
+:TAGS: LibreOffice,Ubuntu
+
+＞＞＞ 2019-09-15（日曜日）16：00 ＞＞＞
+
+＊ Microsoft　Office365の環境が整った直後のSSDの故障 - 金沢市駅西本町所在市場急配センターにおける組織犯罪殺人未遂事件として再捜査の要請書／石川県警察珠洲警察署御中 http://hirono-hideki.hatenablog.com/entry/2019/09/13/112925
+
+　上記のブログ記事として記録した事情によりますが、SSDストレージの故障でインストールしていたOS、Windows10のシステムが全滅してしまい使えなくなってしまいました。
+
+　SSD本体は安いもので３５００円程度と聞いていますが、Windows10をDSP版として入れ直すと消費税を含め２万円近くの出費になると見積もりました。この３倍ほどの出費をすれば、他にも故障が出る心配の少ない新品のパソコンが買えるので、ここは大いに考えどころです。
+
+　大分先のことになりそうですが、ここは部品の故障の心配がなく最新の技術に対応した新たしいパソコンを購入する方向で考えています。今のパソコンは、古いハードディスクですが特に問題はなく使えていますし、データのバックアップとしても、予備システムとしても使えます。
+
+　とにかく家のパソコンでWindowsのOSが使えるものは一台もなくなりました。すべてがLinuxになります。当然Office365も使えません。そこで互換性の高いのがUbuntuに最初からインストールされているLibreOfficeになります。
+
+　Office365のワープロソフトWordに対応したのがLibreOfficeのWriterになるのですが、Wordで作成したファイルを開いてみると、意外なことにほぼ遜色のないレイアウトの適用がありました。
+
+　LibreOfficeのWriterは初期設定のページレイアウトで、文字の大きさなどが気に入らず、あまり使ってこなかったのですが、pythonでマクロの自動処理が出来ることなどは知っていました。
+
+```
+LibreOfficeマクロとVBAの違い
+OpenOffice.org Basicは、基本的に文法がVBA (Visual Basic for Applications)と同じである。しかし、いくつか相違点もある。以下に OpenOffice.org BasicとVBAの違いを説明する。
+
+［source：］LibreOfficeマクロ入門 http://itref.fc2web.com/openoffice/basic/
+```
+
+　「VBA(Visual Basic for Applications）」といえば、Office97の時代からあったような気もします。Officeはバージョンを忘れましたが、平成15年辺りにデベロッパー（開発者）という上位のバージョンを購入したこともありました。
+
+　6万円ほどしたように思います。その頃はまだほとんど使えこなせておらず、無意味な買い物をしました。本腰を入れて取り組んだのが平成11年の1月頃に購入した「Visual　C++」というMicrosoft社の製品でしたが、入門の域を出て応用できることはありませんでした。
+
+　VBAについては、平成21年5月から8月の職業訓練で、ワープロと表計算の試験の出題範囲にも含まれていたので、その期間、本格的に勉強に取り組んだことがありました。出題はキーボードマクロの作成程度だったと思いますが、深く理解するためにモジュールの作成などもしていました。
+
+　2級の表計算でもExcelでVLOOKUP関数などの出題はあったので、マクロの理解はプログラムとしての関数の利用と密接であったとも記憶にあります。個人的にはマクロといえば、キーボードマクロで処理の自動化を記録させることにあります。
+
+　今月9月に入ってからになりますが、インストールしたOffice365のマクロでは、マクロの利用が特別な拡張子のファイルとして保存しないと利用できなくなっていることを知りました。docmという拡張子です。こうなるとマクロのイメージも変わり、プログラムそのものという気がしました。
+
+　昨日の9月14日なりますが、LibreOfficeのWriterでマクロを作成し、段落をTwitterに投稿するものと、日付時刻を挿入するものを作成しました。朝から始めて、ようやく目的を達成できたのが23時30分ぐらいという時間でした。
+
+　同じことをやるのに、Office365のWordでも難儀したのですが、同じVBAのマクロでも表計算のExcelのものは情報が多いのに、Wordとなると極端に情報も少なくて、簡単な操作をするのも、ややこしくて冗長なコードの記述が必要となっていました。
+
+　LibreOfficeとなるとさらに情報は少なくて、不思議なことに関数のリファレンスのような情報もほとんど見つかりませんでした。文字列を編集中の文書に挿入することはすぐに出来たのですが文頭か文末の情報しかなく、カーソルのある位置に挿入する方法がなかなか見つかりませんでした。
+
+　この基本中の基本というような操作で、あれだけ長い時間を掛けて調べまくったというのも、おそらく最初の経験であったように思います。検索のワードをいろいろと変えながら、ようやく見つけて実行できたのが、次のpythonのコードになりますが、確かにややこしいです。
+
+```
+    # insert the text into the document
+    now = datetime.datetime.now()
+    time = '〈〈〈 {0:%Y-%m-%d %H:%M:%S} 〈〈〈'.format(now)
+    
+    def cursor():
+        return oDoc.getCurrentController().getSelection().getByIndex(0)
+
+    oText.insertString(cursor(), time, 0 )
+```
+
+　Twitterにツイートするマクロは、pythonでは作れず、早々にキーボードマクロのコードを再利用して、そちらから外部の自作コマンドを呼び出すようにしたので、わりと簡単に出来ました。
+
+　肝はテキストの範囲選択なのですが、他にも応用ができるので、pythonで出来るようにしておきたいです。
+
+　次がキーボードマクロで取得したカーソルがある段落の範囲選択処理のコードになります。
+
+```
+dim document   as object
+dim dispatcher as object
+rem ----------------------------------------------------------------------
+rem get access to the document
+document   = ThisComponent.CurrentController.Frame
+dispatcher = createUnoService("com.sun.star.frame.DispatchHelper")
+
+rem ----------------------------------------------------------------------
+dispatcher.executeDispatch(document, ".uno:GoToPrevPara", "", 0, Array())
+
+rem ----------------------------------------------------------------------
+dispatcher.executeDispatch(document, ".uno:GoToNextPara", "", 0, Array())
+
+rem ----------------------------------------------------------------------
+dispatcher.executeDispatch(document, ".uno:EndOfParaSel", "", 0, Array())
+
+```
+
+[link:] » python libreoffice dispatcher - Google 検索 https://t.co/ebQB8A7Ma0
+
+[link:] » LibreOffice(36)マクロの記録をPythonに翻訳2:反復部分を関数にする-p--q https://t.co/4jF5tA51Bv
+
+　dispatcherというインスタンス名をキーワードに調べたところ、上記のページがすぐに見つかり、紹介されているコードを眺めたところ、実行できそうなのでやってみたところ、出来ました。こういう情報が次のステップへのヒントになっていきます。
+
+＜＜＜ 2019-09-15（日曜日）17：38 ＜＜＜
+
