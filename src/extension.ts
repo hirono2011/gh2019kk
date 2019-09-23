@@ -27,14 +27,24 @@ export function activate(context: vscode.ExtensionContext) {
 			ncp.copy(ms, function () { console.log("done") });
 		}
 
-		exec("/home/a66/shell_script/kk_clipboar_tweet.py", (error: any,stdout: any,stderr: any) =>
-		{
-			//実行した後の処理をここに書く。実行したアプリが終了した後に実行される。
-			vscode.window.showInformationMessage('SUCCESS!');
+		// exec("/home/a66/shell_script/kk_clipboar_tweet.py", (error: any,stdout: any,stderr: any) =>
+		// {
+		// 	//実行した後の処理をここに書く。実行したアプリが終了した後に実行される。
+		// 	vscode.window.showInformationMessage('SUCCESS!');
 		
-		}
+		// }
+
+		function sleep(milliseconds: number) {
+			return new Promise<void>(resolve => {
+			  setTimeout(() => resolve(), milliseconds);
+			});
+		  }
 		
-		);
+		sleep(1);
+
+		const { execSync } = require('child_process');
+		const stdout = execSync('/home/a66/shell_script/kk_clipboard_tweet.rb');
+		console.log(stdout);
 
 	});
 

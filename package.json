@@ -1,13 +1,13 @@
 {
   "name": "gh2019kk",
-  "displayName": "gh2019vs",
+  "displayName": "gh2019kk",
   "description": "kokuhatu",
   "publisher": "gh2019kk",
   "repository": {
     "type": "git",
     "url": "git@github.com:hirono2011/gh2019kk.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.38.0"
   },
