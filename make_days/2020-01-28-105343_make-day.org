@@ -1,0 +1,135 @@
+* 「仙台高裁は２７日、・・・裁判官分限法に基づき、同高裁の岡口基一裁判官（53）の懲戒を最高裁に申し立てた」というネットのニュース
+  CLOCK: [2020-01-28 火 10:54]--[2020-01-28 火 11:08] =>  0:14
+
+〉〉〉：Emacs： 2020-01-28（火曜日）10：54　 〉〉〉
+
+:CATEGORIES: 岡口基一裁判官
+
+[link:] 2019年12月16日05時12分の登録： REGEXP：”岡口”／モトケン（@motoken_tw）の検索（2013-04-08〜2019-10-04／2019年12月16日05時12分の記録27件） http://hirono2014sk.blogspot.com/2019/12/regexpmotokentw2013-04-082019-10.html
+[link:] 2019年12月20日13時16分の登録： ＼ねここ同志/司法修習73期　@showonelaw＼研修所では岡口Jの話はしない方が良さそう（教訓） http://hirono2014sk.blogspot.com/2019/12/73showonelawj.html
+[link:] 2020年01月27日20時43分の登録： REGEXP：”岡口．＊裁判官”／データベース登録済みツイートの検索：2019-10-21〜2020-01-27／2020年01月27日20時39分の記録：ユーザ・投稿：105／298件 http://hirono2014sk.blogspot.com/2020/01/regexp2019-10-212020-01.html
+[link:] 2020年01月27日21時17分の登録： REGEXP：”岡口．＊裁判官”／データベース登録済みツイートの検索：2020-01-27〜2020-01-27／2020年01月27日21時16分の記録：ユーザ・投稿：20／23件 http://hirono2014sk.blogspot.com/2020/01/regexp2020-01-272020-01.html
+[link:] 2020年01月28日10時48分の登録： REGEXP：”岡口”／データベース登録済みツイートの検索：2020-01-27〜2020-01-28／2020年01月28日10時46分の記録：ユーザ・投稿：64／95件 http://hirono2014sk.blogspot.com/2020/01/regexp2020-01-272020-01_11.html
+
+［link：］ SNS不適切投稿で裁判官の懲戒申し立て ｜ 共同通信 https://this.kiji.is/594417915806106721
+
+［link：］ SNS不適切投稿で裁判官の懲戒申し立て (共同通信) - LINE NEWS https://news.line.me/articles/oa-rp70841/b4fd8050d9d8
+
+［link：］ 岡口裁判官の懲戒申し立て　ＦＢで事件遺族侮辱：イザ！ https://www.iza.ne.jp/kiji/events/news/200127/evt20012716560017-n1.html
+
+［link：］ 岡口裁判官の懲戒申し立て　仙台高裁、事件遺族侮辱で　　：日本経済新聞 https://www.nikkei.com/article/DGXMZO54886540X20C20A1CR8000/
+
+［link：］ 仙台高裁、岡口裁判官の懲戒申し立て　「ＦＢで遺族侮辱」―異例の２度目：時事ドットコム https://www.jiji.com/jc/article?k=2020012700787&g=soc
+
+［link：］ 仙台高裁、岡口裁判官の懲戒申し立て＝「ＦＢで遺族侮辱」―異例の２度目 (2020年1月27日) - エキサイトニュース https://www.excite.co.jp/news/article/Jiji_20200127X883/
+
+［link：］ 仙台高裁、岡口裁判官の懲戒申し立て＝「ＦＢで遺族侮辱」―異例の２度目 (2020年1月27日) - エキサイトニュース https://www.excite.co.jp/news/article/Jiji_20200127X883/
+
+［link：］ 岡口裁判官の懲戒申し立て　仙台高裁 - 毎日新聞 https://mainichi.jp/articles/20200128/ddm/012/040/076000c
+
+［link：］ 異動後も不適切投稿の岡口判事、高裁が懲戒申し立て ： 国内 ： ニュース ： 読売新聞オンライン https://www.yomiuri.co.jp/national/20200127-OYT1T50228/
+
+［link：］ FB不適切投稿で仙台高裁岡口基一判事の懲戒申し立て https://news.tv-asahi.co.jp/news_society/articles/000174714.html
+
+　今のところ、テレビでニュースはみていないですが、テレビ朝日の情報がありました。
+
+```
+アカウント名	ツイート数	リツイート数
+Kamei, Gentaro（gk1024）	1	0
+黒田法律事務所 弁護士黒田厚志（kurodalawoffice）	0	1
+satoshinr（satoshinr）	0	1
+papadenka（holmesdenka）	0	1
+モフ（mofjd）	0	1
+ＤＤＤ（TheReadingTime）	0	1
+ＫＢブラック（アルコールやめられない）（battamon_black）	0	1
+冬弁（itbengo4）	3	0
+弁護士中村晃基（福山）（koukitei）	0	1
+Yamashita_y（crusing21）	0	2
+田丁木寸（matimura）	1	0
+イザ！編集部（iza_edit）	1	0
+えきなんローヤー?（ekinan_lawyer）	0	1
+井藤公量（pacitokun）	0	1
+津村啓介（Tsumura_Keisuke）	1	0
+Kei（tacovam）	0	1
+若手ガチナビ＠５兆円ウォーク（gachinavi）	1	0
+時事ドットコム（時事通信ニュース）（jijicom）	1	0
+嘘つき弁護士。（LiarLawyer800）	1	0
+南野 森（MINAMINO Shigeru）（sspmi）	1	0
+
+
+［source：］奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中： REGEXP：”岡口．＊裁判官”／データベース登録済みツイートの検索：2020-01-27〜2020-01-27／2020年01月27日21時16分の記録：ユーザ・投稿：20／23件 http://hirono2014sk.blogspot.com/2020/01/regexp2020-01-272020-01.html
+```
+
+```
+アカウント名	ツイート数	リツイート数
+Kamei, Gentaro（gk1024）	1	0
+時事ドットコム（時事通信ニュース）（jijicom）	5	0
+黒田法律事務所 弁護士黒田厚志（kurodalawoffice）	0	1
+シリウスＡ（eeyy888777）	1	2
+リーチ一発ツモ裏１（luckymangan）	0	1
+にんにん@9期生に激しば（shijin_ni_naren）	0	1
+渡辺輝人（nabeteru1Q78）	0	1
+TｰTAKA（TGN54）	0	1
+法務ニュース（Sosho_Sokuho）	1	0
+satoshinr（satoshinr）	0	1
+papadenka（holmesdenka）	0	1
+しゃいん（shine_sann）	0	1
+モフ（mofjd）	0	1
+ＤＤＤ（TheReadingTime）	0	1
+ＫＢブラック（アルコールやめられない）（battamon_black）	0	1
+ツジタワタル（弁護士）（Black_Sundae）	0	2
+冬弁（itbengo4）	4	0
+浜木綿弁右衛門（leplusallez）	1	0
+えきなんローヤー?（ekinan_lawyer）	0	3
+テレ朝news（tv_asahi_news）	2	0
+けーぞ伯爵?ふあくとりゐ（kzo_tan）	0	1
+橋本太地（弁護士・あなたのみかた法律事務所）（kojin_syugi）	1	0
+要芽お姉さま（vivaSPQR）	0	1
+ベンスケ（BenbenSukesuke）	0	1
+弁護士大西洋一（o2441）	1	0
+井上武史 Takeshi INOUE（inotake77）	0	1
+オタ弁さん（otalawyer）	0	1
+弁護士中村晃基（福山）（koukitei）	0	1
+霞 司郎?（kasumi_shiro）	0	1
+Yamashita_y（crusing21）	0	3
+田丁木寸（matimura）	1	0
+ヂルチ（zilchlaw）	0	1
+イザ！編集部（iza_edit）	1	0
+井藤公量（pacitokun）	0	3
+津村啓介（Tsumura_Keisuke）	1	0
+Kei（tacovam）	0	1
+江木大輔（daisuke29801）	0	1
+KURODA takashi（kitaguni_b）	0	1
+若手ガチナビ＠５兆円ウォーク（gachinavi）	1	0
+嘘つき弁護士。（LiarLawyer800）	1	0
+小栗　夏生（LgE71H4oQlyrW1g）	0	1
+南野 森（MINAMINO Shigeru）（sspmi）	1	0
+奉納＼さらば弁護士鉄道・泥棒神社の物語（hirono_hideki）	2	10
+かちどきのべんごし（kazu8312）	1	0
+福岡の弁護士　水野遼（mizuno_ryo_law）	1	0
+メロディアス屁こき虫（depon2010）	0	1
+読売新聞社会部（YOL_national）	1	0
+非常上告-最高検察庁御中_ツイッター（s_hirono）	1	0
+小川慎一/Shinichi Ogawa（ogawashinichi）	0	1
+ルート６６（元ルパン３世）（Route66_LP3）	0	1
+亀石（kame_ishi）	1	0
+朝日新聞(asahi shimbun）（asahi）	1	0
+平　裕介（YusukeTaira）	1	0
+Pokomoko（Pokomoko5）	1	1
+魚占い（sakanauranai）	0	1
+ピピピーッ（O59K2dPQH59QEJx）	1	0
+企業法務系弁護士その1（big_lawfirm）	1	1
+（：］ミ（：］ミ（：］ミ（KTets）	1	0
+三毛猫B（poorpartner）	0	2
+曽我部真裕（masahirosogabe）	1	0
+本 秀紀（MotoBuch1228）	1	0
+心の貧困（mental_poverty）	1	0
+仏樹房 東蝕（qnOsaZLBGyht6vJ）	0	1
+竜剛馬（ryu_goma）	0	1
+
+
+［source：］奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中： REGEXP：”岡口”／データベース登録済みツイートの検索：2020-01-27〜2020-01-28／2020年01月28日10時46分の記録：ユーザ・投稿：64／95件 http://hirono2014sk.blogspot.com/2020/01/regexp2020-01-272020-01_11.html
+```
+
+〈〈〈：Emacs： 2020-01-28（火曜日）11：08 　〈〈〈
+
